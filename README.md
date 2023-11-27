@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satheesh Asoka</h1>
+<h1 align="center">Hi 👋, I'm Satheesh Asokan</h1>
 <h3 align="center">A passionate Devops and Cloud Engineer</h3>
 
 - 🔭 I’m currently working on **Creating modules in Terraform**
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/satheesh-asokan-61482642" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satheesh-asokan-61482642" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
