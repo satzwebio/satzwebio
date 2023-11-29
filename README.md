@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Devops and Cloud**
 
-- 🤝 I’m looking for help with **gaining best security practices**
+- 🤝 I’m looking for help with **gaining best security practices in Devops**
 
 - 📫 How to reach me **satzwebio@gmail.com**
 
