@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satheesh Asokan</h1>
 <h3 align="center">A passionate Devops and Cloud Engineer</h3>
 
-- 🔭 I’m currently working on **Creating modules in Terraform**
+- 🔭 I’m currently working on **Openshift Container Platform**
 
-- 🌱 I’m currently learning **new trends in Devops**
+- 🌱 I’m currently learning **Kubernetes Operators**
 
 - 👯 I’m looking to collaborate on **Devops and Cloud**
 
